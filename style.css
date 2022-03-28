@@ -1,0 +1,13 @@
+h1 {
+    margin: 0; 
+    border-bottom: 1px solid tomato;
+    padding: 10px;
+
+    height: 100px;
+    width: 100px;
+
+    box-sizing: border-box;
+}
+/* surgiu para solucionar os problemas de transbordamento que o textos causavam dentro do bloco, garantindo que o elemento tenha absolutamente aquele tamanho especificado. 
+
+box-sizing: border-box*/
